@@ -1,6 +1,6 @@
 {
   "name": "@mixint/bytepipette",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a transflect stream to serve byte ranges with file statistics",
   "main": "BytePipette.js",
   "scripts": {
