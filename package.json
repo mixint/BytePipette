@@ -1,0 +1,33 @@
+{
+  "name": "@mixint/bytepipette",
+  "version": "1.0.0",
+  "description": "a transflect stream to serve byte ranges with file statistics",
+  "main": "BytePipette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixint/bytepipette.git"
+  },
+  "keywords": [
+    "range",
+    "ranges",
+    "read",
+    "readstream",
+    "fs",
+    "transflect"
+  ],
+  "author": "Colten Jackson",
+  "license": "SEE LICENSE IN CONTINUITY LICENSE",
+  "bugs": {
+    "url": "https://github.com/mixint/bytepipette/issues"
+  },
+  "homepage": "https://github.com/mixint/bytepipette#readme",
+  "dependencies": {
+    "@mixint/extrastat": "^1.0.0",
+    "@mixint/transflect": "^0.4.0",
+    "parsedmessage": "^3.0.1",
+    "serverfailsoft": "^1.2.4"
+  }
+}
